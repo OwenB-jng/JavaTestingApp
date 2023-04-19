@@ -1,0 +1,20 @@
+1,What is the capital of Washington State?,Seattle,Vancouver,Tacoma,DC,C
+2,Which of these people is the lead singer of the band Public Enemy?,ChuckD,Joey Pants,Charlie Chaplin,Rick Brick,A
+3,Which of these is actually a legume?,Pineapple,A Speeding Ticket,A delicious Cabbage Roll,Peanut,D
+4,How many cards are in a hand of five card stud?,1,2,3,5,D
+5,From which Chinese province is Dim Sum most commonly associated?,Guangdong,Hainan,Kunming,Zhengzhou,A
+6,Which country won the inaugural FIFA World Cup,Brazil,Uruguay,Djibouti,South Sudan,B
+7,Based on a Korean program; this television show on CBS has proved popular,The Good Doctor,The Bad Doctor,Doctor Shavago,Wait... You're Not a Doctor,A
+8,This Italian plumber spends most of his time eating mushrooms and riding pipes,Moussalini,Ron Santo,Dick Bavetta,Mario,D
+9,The Supreme Court of Canada is made up of this many justices.,9,50,3,12,A
+10,Which NFL franchise has won the most Super Bowls since the year 2000,Green Bay Packers,New England Patriots,Teenage Mutant Ninja Turtles,San Francisco 49ers,B
+11,Subjective Trivia: Which is the best of these is worst Steven Spielberg Movie?,ET Extraman,Jaws 2: Bigger Jaws,Raiders of the Lost Shark,Jaws 3: Return to Jaws 1,D
+12,Shoulder pads protect what part of the body?,Shoulder,Boulder,Groin,Sub Groinr,A
+13,Contrary to popular belief; Baja California lies in what country?,California,Mexico,United States,Grand Theft Auto: Chinatown Wars,B
+14,A cyclone that develops between 180 and 100 degrees of the Northern hemisphere is known as,Hurricane,Typhoon,Whirwind,Grand Theft Auto: Chinatown Wars,B
+15,Carlton University is named after which Fresh Prince of Bel Air character?,Carlton,Will,Uncle Phil,Will's Cousin,A
+16,Mac Jones attended which SEC University?,DeVry Institue,Auckland State,Virginia Tech,University of Alabama,D
+17,Which of the following trailbalzers brought the Wock to Poland?,A$AP Rocky,Carlton,Lakehead Univrsity,Lil Yachty,D
+18,Nico Bellic was the protagonist of which video game?,Grand Theft Auto 4,Bubsy3D,Red Dead Recitivism,Jaws 3: Return to Jaws 1: The Game,A
+19,The greatest trick the devil ever pulled was,Monitoring storm systems,Prioriitizing family over friendship,Convincing the world he didn't exist,Getting too many Pfizer Vaccines,C
+20,You have to fight for the right to?,Register to vote,Eat with the big boys,Party,Not pay child Support,C
